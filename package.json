@@ -1,0 +1,27 @@
+{
+  "name": "Bamazon-Store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "customer.js",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.6.1",
+    "table": "^4.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snappyninja/Bamazon-Store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Snappyninja/Bamazon-Store/issues"
+  },
+  "homepage": "https://github.com/Snappyninja/Bamazon-Store#readme"
+}

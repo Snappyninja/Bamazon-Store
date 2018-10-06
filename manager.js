@@ -1,12 +1,12 @@
-var mysql = require("mysql");
+var mysql = require("mysql2");
 var inquirer = require("inquirer");
 
 var connection = mysql.createConnection({
     host: "localhost",
-    port: 3307,
+    port: 3306,
     user: "root",
     password: "root",
-    database: "bamazon_db"
+    database: "ugh"
   });
 
 var maxResults = 0;
